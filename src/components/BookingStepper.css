@@ -1,0 +1,55 @@
+.stepper{
+    margin-top:110px;
+    margin-left:110px;
+}
+.steps{
+    display: flex;
+    justify-content: start;
+}
+.steps .check-btn{
+    color:#01baef;
+    background-color: white;
+    border:1px solid #01baef;   
+    height: 60px;
+    width:60px;
+}
+.steps .sec-step-btn{
+    display:block;
+    font-size: 18px;
+    height: 60px;
+    width:60px;
+    background-color: #01baef;
+    color:white;
+    border-radius: 50%;
+    margin-left:5px
+}
+.steps .third-step-btn{
+    font-size: 18px;
+    height: 60px;
+    width:60px;
+    background-color: white;
+    color:#01baef;
+    border-radius: 50%;
+    border:1px solid #01baef;
+    margin-left:5px
+}
+.steps .step-div{
+    background-color: #01baef;
+    color:#01baef;
+    width:80px;
+    margin-top:30px;
+}
+.steps-text{
+    display: flex;
+    justify-content: start;
+}
+.steps-text h6{
+    font-weight: lighter;
+    margin-top:10px;
+}
+.steps-text .select-room{
+    margin-left: 135px;
+}
+.steps-text .payment{
+    margin-left: 135px;
+}
