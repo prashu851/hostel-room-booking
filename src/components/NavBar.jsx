@@ -7,10 +7,10 @@ class NavBar extends React.Component {
         return(
                <div className="nav-bar">
                    <div className = "menu-options">
-                       <a href="">HOME</a>
-                       <a href="">EXPERIENCES</a>
-                       <a href="">ROOMS</a>
-                       <a href="">GALLERY</a>
+                       <a href="#">HOME</a>
+                       <a href="#">EXPERIENCES</a>
+                       <a href="#">ROOMS</a>
+                       <a href="#">GALLERY</a>
                     </div>
                     <div className="menu">
                         <IconButton className="menu-btn" edge="start" color="default" aria-label="menu">

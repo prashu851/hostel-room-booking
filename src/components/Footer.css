@@ -7,6 +7,7 @@ footer {
     background-color: #101010;
     height:240px;
     text-align: center;
+    padding-bottom: 250px;
   }
   
 footer div {
@@ -32,7 +33,7 @@ footer div {
     padding-bottom: 5px;
   }
   
-  li a:hover,a:visited,a:link {
+li a:hover,a:visited,a:link {
     color:white;
     text-decoration:none;
 }
